@@ -56,15 +56,15 @@ assign F1= x1|x2|x3|x4|x5;
 endmodule
 ```
 ## RTL Diagram :
-![image]![Screenshot 2023-08-26 090312](https://github.com/syedmokthiyar/Experiment--02-Implementation-of-combinational-logic-/assets/118787294/30fa42a1-8ad1-4fd3-ba2f-2056acb930ab)
+[Screenshot 2023-08-26 090312](https://github.com/syedmokthiyar/Experiment--02-Implementation-of-combinational-logic-/assets/118787294/30fa42a1-8ad1-4fd3-ba2f-2056acb930ab)
 
 
 ## TRUTH TABLE :
-![image]![Screenshot 2023-08-26 085650](https://github.com/syedmokthiyar/Experiment--02-Implementation-of-combinational-logic-/assets/118787294/34b56ed4-8d8f-48fb-a93c-76d6f488d1cb)
+[Screenshot 2023-08-26 085650](https://github.com/syedmokthiyar/Experiment--02-Implementation-of-combinational-logic-/assets/118787294/34b56ed4-8d8f-48fb-a93c-76d6f488d1cb)
 
 
 ## OUTPUT Waveform :
-![image]![Screenshot 2023-08-26 085636](https://github.com/syedmokthiyar/Experiment--02-Implementation-of-combinational-logic-/assets/118787294/24823977-e011-4f40-94f3-c1d52e3bd158)
+[Screenshot 2023-08-26 085636](https://github.com/syedmokthiyar/Experiment--02-Implementation-of-combinational-logic-/assets/118787294/24823977-e011-4f40-94f3-c1d52e3bd158)
 
 
 ## Result:
