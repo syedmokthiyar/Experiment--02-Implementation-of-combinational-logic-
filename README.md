@@ -64,7 +64,9 @@ endmodule
 
 
 ## OUTPUT Waveform :
-![Screenshot 2023-08-26 085636](https://github.com/syedmokthiyar/Experiment--02-Implementation-of-combinational-logic-/assets/118787294/24823977-e011-4f40-94f3-c1d52e3bd158)
+
+![deexp2](https://github.com/syedmokthiyar/Experiment--02-Implementation-of-combinational-logic-/assets/118787294/c53de694-e6fd-43a2-b906-92fc4dc0bec8)
+
 
 
 ## Result:
